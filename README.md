@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/arsduo/elm-elixir-starter.svg?style=svg)](https://circleci.com/gh/arsduo/elm-elixir-starter)
+[![CircleCI](https://circleci.com/gh/jkzilla/elm-elixir-starter.svg?style=svg)](https://circleci.com/gh/jkzilla/elm-elixir-starter)
 
 # Elm+Elixir Starter Kit
 
